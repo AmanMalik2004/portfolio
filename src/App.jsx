@@ -35,7 +35,7 @@ function App() {
           </a>
 
           <a
-            href="/resume.pdf"
+            href="/resume.pdf?v=20260915"
             className="bg-ink text-paper px-4 py-2 rounded hover:bg-amber transition-colors"
           >
             resume
