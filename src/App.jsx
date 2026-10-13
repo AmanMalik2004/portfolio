@@ -71,7 +71,7 @@ function App() {
           </a>
 
           <a
-            href="/resume.pdf?v=20260928"
+            href="/resume2.pdf?v=20261013"
             target="_blank"
             rel="noreferrer"
             className="bg-ink text-paper px-4 py-2 rounded hover:bg-amber transition-colors"
@@ -89,7 +89,7 @@ function App() {
 
         <h1 className="font-display font-bold text-5xl md:text-6xl leading-tight max-w-3xl">
           Building ML systems that{" "}
-          <span className="bg-amber px-2">actually ship</span>.
+          <span className="bg-amber px-2">actually ship</span>
         </h1>
 
         <p className="font-body text-lg max-w-2xl mt-6 text-ink/80">
