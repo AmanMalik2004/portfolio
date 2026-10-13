@@ -71,7 +71,7 @@ function App() {
           </a>
 
           <a
-            href="/resume2.pdf?v=20261013"
+            href="/resume.pdf?v=20261013"
             target="_blank"
             rel="noreferrer"
             className="bg-ink text-paper px-4 py-2 rounded hover:bg-amber transition-colors"
